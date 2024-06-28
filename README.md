@@ -36,35 +36,7 @@ New features were created to enhance the analysis, such as calculating call hand
 Data Aggregation:
 Data was aggregated at various levels (e.g., daily, weekly, monthly) to facilitate different types of analysis and visualizations.
 
-FEATURES AND METRICS:-
 
-The dashboard includes a variety of features and metrics that provide a comprehensive view of call center operations:
-
-Call Volume:
-
-Total Number of Calls: The total count of calls handled over a specified period.
-Call Volume Trends: Analysis of call volume trends over time (daily, weekly, monthly).
-Handling Times
-
-Average Handling Time (AHT): 
-The average time taken to handle a call.
-Handling Time Distribution: Distribution of call handling times to identify common duration ranges.
-Customer Satisfaction
-
-Customer Satisfaction Score (CSAT): 
-Scores derived from customer feedback after interactions.
-CSAT Trends: Trends in customer satisfaction scores over time.
-Agent Performance
-
-Agent Call Volume:
-Number of calls handled by each agent.
-Average Handling Time per Agent: The average handling time for each agent.
-Agent CSAT: Customer satisfaction scores attributed to each agent.
-Service Level
-
-Call Abandonment Rate:
-The percentage of calls that were abandoned before being answered.
-Call Transfer Rate: The percentage of calls transferred to another agent or department.
 
 INSIGHTS AND FINDINGS:-
 1.Call Volume Trends
